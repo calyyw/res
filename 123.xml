@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <ROWDATA>
-
+123
 <ROW>
   <ID>5</ID>
   <NAME>&#30333;&#39592;&#31934;</NAME>
@@ -8,7 +8,7 @@
   <TESTCLOB>&lt;CLOB&gt;</TESTCLOB>
   <TESTDATE></TESTDATE>
 </ROW>
-
+456
 <ROW>
   <ID>7</ID>
   <NAME>&#40657;&#29066;&#24618;</NAME>
